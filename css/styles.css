@@ -1,0 +1,475 @@
+/* Body */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.body-class{
+  margin:0;
+}
+
+/* Navbar */
+
+.navbar{
+  background-color: white;
+  margin: 0 0;
+  padding-left: 80px;
+  padding-right: 80px;
+  border-bottom: 0.5px solid green;
+}
+
+.navbar-brand{
+  color: #35415A;
+  padding-left: 20px;
+  font-family: Ubuntu;
+  font-weight: 100;
+}
+
+.nav-item{
+  padding: 0 10px;
+}
+
+.navbuttons{
+  margin-right: 20px;
+}
+
+.btn{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.nav-link{
+  text-decoration: none;
+  color: #35415A;
+  font-size: 0.8rem;
+  font-family: Poppins;
+}
+
+.nav-link:hover{
+  color: green;
+  font-size: 0.8rem;
+}
+
+.navbar-toggler{
+  border: none;
+  outline: none;
+}
+
+
+/* Home Area */
+
+.home-final{
+  margin: 15px 80px 0 80px;
+}
+
+
+#home{
+  background-image: url('background1.jpg');
+  padding: 340px 20px 340px 20px;
+  color: white;
+}
+
+p{
+  font-size: 0.8rem;
+}
+
+h1{
+  line-height: 1.5;
+}
+
+h4{
+  line-height: 2.5;
+  font-size: 1rem;
+}
+
+h5{
+  font-size: 1rem;
+}
+
+h6{
+  line-height: 2;
+}
+
+.home-l-m{
+  margin-left: 0;
+  margin-top: 10px;
+  border-color: green;
+}
+
+.home-l-m:hover{
+  margin-left: 0;
+  margin-top: 10px;
+  border-color: green;
+  background-color: green;
+  color: white;
+}
+
+.home-l-m-button{
+  text-decoration: none;
+  color: white;
+}
+
+.home-l-m-button:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.row{
+  text-align: center;
+}
+
+
+
+/* About Us */
+.about-us-final{
+  margin: 15px 80px 0 80px;
+  padding: 20px;
+}
+
+
+#about-us{
+  margin: 0;
+  color: #35415A;
+  background-color: #F7FAFC;
+}
+
+.about-us-l-m{
+  text-decoration: none;
+  color: #35415A;
+}
+
+/* About Us Right */
+.about-us-left-btn{
+  margin-top: 10px;
+  color: #35415A;
+  border-color: green;
+}
+
+.main-about-left{
+  margin-top: 50px;
+  text-align: left;
+}
+
+.main-about-right{
+  margin-top: 50px;
+  text-align: left;
+}
+
+
+/* About Us Left */
+.a-u-head{
+  text-align: left;
+}
+
+.w-c-i-head{
+  text-align: left;
+  padding-left: 20px;
+}
+
+.about-right{
+  padding: 40px 20px 20px 20px;
+  color: #35415A;
+  text-align: left;
+}
+
+
+
+
+
+/* Services Area*/
+
+.services{
+  margin: 15px 80px 0 80px;
+  padding: 20px;
+  color: #35415A;
+}
+
+.o-services{
+  padding: 20px 20px;
+}
+
+.services-heading{
+  margin-top: 50px;
+}
+
+
+
+
+
+
+/* Pricing Area */
+
+#pricing{
+  background-color: #F7FAFC;
+  color: #35415A;
+}
+
+.priceing{
+  margin: 15px 80px 0 80px;
+  padding: 20px;
+}
+
+.pricing-col{
+  padding: 20px;
+}
+
+/* Pricing Card */
+
+.card{
+  border: 50px;
+  border-color: green;
+}
+
+.card-header{
+  padding: 20px;
+  background-color: green;
+  color: white;
+}
+
+.card-btn{
+  color: #35415A;
+  margin: 10px 0 10px 0;
+  padding: 8px;
+  border-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+/* Partners */
+
+.partners-section{
+  margin: 0 80px 0 80px;
+  padding: 20px;
+  padding-top: 90px;
+}
+
+.partners-heading{
+  line-height: 20px;
+  padding-bottom: 40px;
+  color: #35415A;
+}
+
+
+
+
+
+
+
+
+
+/* Contact */
+
+.contact{
+  background-color: #F7FAFC;
+  margin: 0;
+  margin-left: 0;
+  padding: 0;
+}
+
+.contact-us-right{
+  text-align: left;
+  padding-left: 100px;
+  padding-top: 0px;
+  position: relative;
+}
+
+.contact-us-r{
+  background-color: #F7FAFC;
+  padding-top: 70px;
+  padding-bottom: 90px;
+}
+
+.contact-us{
+  margin: 15px 80px 0 80px;
+  padding: 20px;
+}
+
+
+
+.form1{
+  margin-bottom: 25px;
+}
+
+.form-box-name{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #35415A;
+  outline: none;
+  background-color: #F7FAFC;
+  color: #35415A;
+  font-size: 1rem;
+}
+
+.form-box-name:hover{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid green;
+  outline: none;
+  background-color: #F7FAFC;
+  color: #35415A;
+  font-size: 1rem;
+}
+
+.form2{
+  margin-bottom: 25px;
+}
+
+.form-box-email{
+  width: 100%;
+border: none;
+border-bottom: 1px solid #35415A;
+outline: none;
+background-color: #F7FAFC;
+color: #35415A;
+font-size: 1rem;
+}
+
+.form-box-email:hover{
+  width: 100%;
+border: none;
+border-bottom: 1px solid green;
+outline: none;
+background-color: #F7FAFC;
+color: #35415A;
+font-size: 1rem;
+}
+
+.form3{
+}
+
+.form-box-message{
+  width: 100%;
+  height: 90px;
+  border: none;
+  border-bottom: 1px solid #35415A;
+  outline: none;
+  background-color: #F7FAFC;
+  color: #35415A;
+  font-size: 1rem;
+}
+
+.form-box-message:hover{
+  width: 100%;
+  height: 90px;
+  border: none;
+  border-bottom: 1px solid green;
+  outline: none;
+  background-color: #F7FAFC;
+  color: #35415A;
+  font-size: 1rem;
+}
+
+.h5-form{
+  font-family: Poppins;
+  font-size: 0.8rem;
+  text-align: left;
+  color: #35415A;
+}
+
+.form-btn{
+  border-color: green;
+  color: #35415A;
+  margin-left: 0;
+}
+
+.yardie{
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.footer-final{
+  margin: 0 80px 0 80px;
+  padding: 20px;
+}
+
+.footer{
+  background-color: #EFF0F1;
+  color:#35415A;
+}
+
+.footer-getintouch{
+  text-align: left;
+  margin-right: 50px;
+}
+
+.footer-getintouch-heading{
+  font-size: 0.8rem;
+  line-height: 2;
+}
+
+.fottor-getintouch-text{
+  font-size: 0.8rem;
+}
+
+.footer-menu{
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 0;
+}
+
+.footer-menu-heading{
+  font-size: 0.8rem;
+}
+
+.fottor-menu-link{
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: #35415A;
+}
+
+.fottor-menu-link:hover{
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: green;
+}
+
+.footer-about{
+  text-align: left;
+  margin-top: 50px;
+}
+
+.footer-right{
+  padding-left: 0px;
+  margin-top: 50px;
+}
+
+.footer-about-heading{
+  font-size: 0.8rem;
+}
+
+.footer-about-text{
+  font-size: 0.8rem;
+}
+
+.fa-brands{
+  margin-right: 15px;
+}
+
+.fa-brands:hover{
+  margin-right: 15px;
+  color: green;
+}
